@@ -1,0 +1,2 @@
+# deepseek-roleplay-insight
+与deepseek一年半以来长期使用中在RP场合下的一点愚见
